@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+width: 1440px;
+height: 1024px;
+
+background: rgba(0, 120, 158, 0.45);
+}
+
+header {
+  position: absolute;
+width: 10000px;
+height: 177px;
+left: 268px;
+top: 0px;
+
+background: #3B615A;
+}
+
+.logo {
+  position: absolute;
+width: 268px;
+height: 177px;
+left: 0px;
+top: 0px;
+
+background: url(costao.jpeg);
+}
+
+.estadual {
+  position: absolute;
+width: 10000px;
+height: 90px;
+left: 200px;
+top: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 58px;
+
+color: #FFFFFF;
+}
+
+.jhei {
+  position: absolute;
+width: 400px;
+height: 400px;
+left: 44px;
+top: 271px;
+
+background: url(jheimily.jpg);
+}
+
+p {
+  position: absolute;
+width: 1021px;
+height: 284px;
+left: 383px;
+top: 274px;
+
+background: #D9D9D9;
+}
+
+.nome {
+  position: absolute;
+
+height: 0px;
+left: 600px;
+top: 299px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 48px;
+
+color: #000000;
+}
+
+.anos {
+  position: absolute;
+
+height: 0px;
+left: 600px;
+top: 377px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 48px;
+
+color: #000000;
+}
+
+.classe {
+  position: absolute;
+
+height: 00px;
+left: 600px;
+top: 453px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 55px;
+line-height: 48px;
+
+color: #000000;
+}
